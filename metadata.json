@@ -1,0 +1,6 @@
+{
+  "name": "Bộ Hậu Kỳ Truyện AI",
+  "description": "Ứng dụng hỗ trợ hậu kỳ truyện AI: Tách kịch bản audio, Xây dựng ADN hình ảnh, Sinh prompt tự động, và Viết mô tả YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
